@@ -5,3 +5,4 @@
 /Users/alanbatres/Documents/Level 2/Week 3/BestTAsControllerQuiz/obj/Debug/net8.0/BestTAsControllerQuiz.csproj.CoreCompileInputs.cache
 /Users/alanbatres/Documents/Level 2/Week 3/BestTAsControllerQuiz/obj/Debug/net8.0/BestTAsControllerQuiz.MvcApplicationPartsAssemblyInfo.cs
 /Users/alanbatres/Documents/Level 2/Week 3/BestTAsControllerQuiz/obj/Debug/net8.0/BestTAsControllerQuiz.MvcApplicationPartsAssemblyInfo.cache
+/Users/alanbatres/Documents/Level 2/Week 3/BestTAsControllerQuiz/obj/Debug/net8.0/BestTAsControllerQuiz.sourcelink.json

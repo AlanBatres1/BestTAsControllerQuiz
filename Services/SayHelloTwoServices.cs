@@ -8,8 +8,8 @@ namespace BestTAsControllerQuiz.Services
 {
     public class SayHelloTwoServices
     {
-        public string SayHelloTwo(SayHelloTwoModel sayHelloTwoModel){
-            return $"Hello {sayHelloTwoModel.name2}  Nice to Meet You!";
-        }
+        // public string SayHelloTwo(SayHelloTwoModel sayHelloTwoModel){
+        //     // return $"Hello {sayHelloTwoModel.name2}  Nice to Meet You!";
+        // }
     }
 }
